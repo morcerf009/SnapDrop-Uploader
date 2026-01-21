@@ -1,0 +1,5 @@
+{
+  "name": "SnapDrop Uploader",
+  "description": "A high-fidelity drag-and-drop image uploader with real-time previews, upload simulation, and persistent storage using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}

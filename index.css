@@ -1,0 +1,24 @@
+/* Custom Animations for SnapDrop */
+
+@keyframes fadeInZoom {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-in {
+  animation: fadeInZoom 0.5s ease-out forwards;
+}
+
+.fade-in {
+  /* Included in animate-in */
+}
+
+.zoom-in {
+  /* Included in animate-in */
+}
